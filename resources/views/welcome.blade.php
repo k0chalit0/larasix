@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Practica Devops con Laravel J4H1
+                    Practica Devops con Laravel J4H1 - develop
                 </div>
 
                 <div class="links">
